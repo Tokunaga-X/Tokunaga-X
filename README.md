@@ -17,4 +17,4 @@ I am Web developer.
 
 ### Socials
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://github.com/Tokunaga-X)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)]([https://github.com/Tokunaga-X](https://www.linkedin.com/in/yuchao-xu24253/))
