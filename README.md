@@ -1,20 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Xu Yuchao
-========================================================================================================================================
+<h1 align="center">Hi 👋, I'm Yuchao</h1>
 
-I am Web developer.
---------------------------
+- 💻 Tech Stack: React | Next.js | TypeScript | JavaScript | Tailwind | Solidity.
 
-*   🌍  I'm currently based in Hangzhou, China
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://profolio-site.vercel.app/'>Portfolio</a>
-*   🧠  Currently Working on becoming Fullstack developer
-*   🤝  I'm open to collaborating on interesting projects as a developer
+- 🏗️ Web2/3 developer
 
-### Skills
+-  🖥️ My portfolio: <a target="_blank" rel="noreferrer" href='https://profolio-site.vercel.app/'>Portfolio</a>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,react,vue)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=react,vue,sass,tailwind)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,jest)](https://skillicons.dev)  
-
-### Socials
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yuchao-xu24253/)
+-  📮 Contact: officialxyc@gmail.com 
