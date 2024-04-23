@@ -2,7 +2,7 @@
 
 ![](https://github.com/prcolaco/prcolaco/blob/master/icons/header_.png)
 
-- 💻 Tech Stack: React | Next.js | TypeScript | Tailwind | Solidity.
+- 💻 Tech Stack: React | Next.js | TypeScript | TailwindCss | Solidity.
 
 - 🏗️ Experienced Frontend Developer, currently interested in the decentralized world.
 
