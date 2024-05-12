@@ -9,9 +9,3 @@
 -  🖥️ My portfolio: <a target="_blank" rel="noreferrer" href='https://profolio-site.vercel.app/'>Portfolio</a>
 
 -  📮 Contact: officialxyc@gmail.com 
-
----
-
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
-</p>
